@@ -49,8 +49,6 @@ Dashboard: Select the operational vector (1-6) you wish to execute.
 
 Log Storage: All outputs are automatically saved to the /logs directory created within the script's folder.
 
-Note: The /logs directory is ignored by Git for your security.
-
 ⚠️ Safety & Legal Disclaimer
 This software is for authorized security testing and educational purposes only. Testing infrastructure you do not own or have explicit written permission to audit is illegal and unethical. The author of EmptySea assumes no liability for any damage, unauthorized access, or legal consequences arising from the misuse of this tool. Use responsibly and keep all testing within the scope of your authorized engagements.
 
